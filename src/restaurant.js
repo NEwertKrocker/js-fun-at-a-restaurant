@@ -61,14 +61,3 @@ module.exports = {
   removeMenuItem
 
 }
-
-
-// var targetRemovalMenu = removedItemMenu;
-//   if (targetRemovalMenu === "breakfast" && restaurantName.menus.breakfast.includes(itemToRemove)){
-//   restaurantName.menus.breakfast.splice(newMenuItem);
-// } else if (targetRemovalMenu === "lunch"  && restaurantName.menus.lunch.includes(itemToRemove)){
-//   restaurantName.menus.lunch.splice(newMenuItem);
-// } else if (targetRemovalMenu === "dinner" && restaurantName.menus.dinner.includes(itemToRemove)){
-//   restaurantName.menus.dinner.splice(newMenuItem);
-// } else {
-// };
